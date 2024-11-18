@@ -1003,6 +1003,8 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 4767ab9dfc98fdf4bb45808cd8a30f70, type: 2}
   - {fileID: 2100000, guid: aa4f875cb9b9fbb4e832642b635e51b6, type: 2}
   - {fileID: 2100000, guid: 661252a9684720e40a76390c31c0c564, type: 2}
+  vel: 3
+  canChangeMaterial: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
